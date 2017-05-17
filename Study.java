@@ -6,5 +6,7 @@ public class Study {
 
         System.out.println("study");
         System.out.println("today");
+
+        System.out.println("lll");
     }
 }
