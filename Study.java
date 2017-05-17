@@ -8,5 +8,7 @@ public class Study {
         System.out.println("today");
 
         System.out.println("lll");
+        System.out.println("lll");
+
     }
 }
